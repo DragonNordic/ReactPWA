@@ -12,7 +12,7 @@ import resourceUrl from "@magento/peregrine/lib/util/makeUrl";
 import Logo from "@magento/venia-ui/lib/components/Logo";
 
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faBehance, faFacebook, faGoogle, faSkype, faTwitter} from "@fortawesome/free-brands-svg-icons";
+import {faBehance, faFacebookF, faGoogle, faSkype, faTwitter} from "@fortawesome/free-brands-svg-icons";
 
 const Footer = props => {
     const { links } = props;
@@ -85,7 +85,7 @@ const Footer = props => {
                             <FontAwesomeIcon icon={faBehance} width={20} height={20} />
                         </li>
                         <li>
-                            <FontAwesomeIcon icon={faFacebook} width={20} height={20} />
+                            <FontAwesomeIcon icon={faFacebookF} width={20} height={20} />
                         </li>
                         <li>
                             <FontAwesomeIcon icon={faGoogle} width={20} height={20} />
