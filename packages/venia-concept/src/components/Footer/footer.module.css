@@ -143,3 +143,12 @@
     color: var(--venia-global-color-footer-text);
     font-family: var(--venia-global-fontFamily-poppins);
 }
+
+.socialLinks li svg {
+    cursor: pointer;
+}
+
+.socialLinks li svg:hover {
+    fill: red;
+    color: red;
+}
