@@ -2585,11 +2585,11 @@
   "resolved" "https://registry.npmjs.org/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz"
   "version" "1.1.1"
 
-"@magento/babel-preset-peregrine@~1.2.1", "@magento/babel-preset-peregrine@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/babel-preset-peregrine":
+"@magento/babel-preset-peregrine@~1.2.1", "@magento/babel-preset-peregrine@file:/Users/mac/Documents/Magento/ReactPWA/packages/babel-preset-peregrine":
   "resolved" "file:packages/babel-preset-peregrine"
   "version" "1.2.1"
 
-"@magento/create-pwa@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/create-pwa":
+"@magento/create-pwa@file:/Users/mac/Documents/Magento/ReactPWA/packages/create-pwa":
   "resolved" "file:packages/create-pwa"
   "version" "2.3.2"
   dependencies:
@@ -2618,25 +2618,25 @@
   "resolved" "https://registry.npmjs.org/@magento/eslint-config/-/eslint-config-1.5.3.tgz"
   "version" "1.5.3"
 
-"@magento/experience-platform-connector@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/extensions/experience-platform-connector":
+"@magento/experience-platform-connector@file:/Users/mac/Documents/Magento/ReactPWA/packages/extensions/experience-platform-connector":
   "resolved" "file:packages/extensions/experience-platform-connector"
   "version" "1.0.1"
   dependencies:
     "@adobe/magento-storefront-event-collector" "~1.1.13"
     "@adobe/magento-storefront-events-sdk" "~1.1.13"
 
-"@magento/pagebuilder@~7.4.1", "@magento/pagebuilder@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/pagebuilder":
+"@magento/pagebuilder@~7.4.1", "@magento/pagebuilder@file:/Users/mac/Documents/Magento/ReactPWA/packages/pagebuilder":
   "resolved" "file:packages/pagebuilder"
   "version" "7.4.1"
 
-"@magento/peregrine@~12.5.1", "@magento/peregrine@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/peregrine":
+"@magento/peregrine@~12.5.1", "@magento/peregrine@file:/Users/mac/Documents/Magento/ReactPWA/packages/peregrine":
   "resolved" "file:packages/peregrine"
   "version" "12.5.1"
   dependencies:
     "fast-glob" "~3.2.4"
     "zen-observable-ts" "^1.2.0"
 
-"@magento/pwa-buildpack@~11.4.0", "@magento/pwa-buildpack@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/pwa-buildpack":
+"@magento/pwa-buildpack@~11.4.0", "@magento/pwa-buildpack@file:/Users/mac/Documents/Magento/ReactPWA/packages/pwa-buildpack":
   "resolved" "file:packages/pwa-buildpack"
   "version" "11.4.0"
   dependencies:
@@ -2685,11 +2685,11 @@
     "write-file-webpack-plugin" "~4.5.0"
     "yargs" "~17.3.0"
 
-"@magento/pwa-theme-venia@~1.3.0", "@magento/pwa-theme-venia@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/pwa-theme-venia":
+"@magento/pwa-theme-venia@~1.3.0", "@magento/pwa-theme-venia@file:/Users/mac/Documents/Magento/ReactPWA/packages/pwa-theme-venia":
   "resolved" "file:packages/pwa-theme-venia"
   "version" "1.3.0"
 
-"@magento/upward-js@~5.3.2", "@magento/upward-js@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/upward-js":
+"@magento/upward-js@~5.3.2", "@magento/upward-js@file:/Users/mac/Documents/Magento/ReactPWA/packages/upward-js":
   "resolved" "file:packages/upward-js"
   "version" "5.3.2"
   dependencies:
@@ -2708,11 +2708,11 @@
     "morgan" "~1.9.1"
     "node-fetch" "~2.6.1"
 
-"@magento/upward-security-headers@~1.0.10", "@magento/upward-security-headers@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/extensions/upward-security-headers":
+"@magento/upward-security-headers@~1.0.10", "@magento/upward-security-headers@file:/Users/mac/Documents/Magento/ReactPWA/packages/extensions/upward-security-headers":
   "resolved" "file:packages/extensions/upward-security-headers"
   "version" "1.0.10"
 
-"@magento/upward-spec@~5.2.1", "@magento/upward-spec@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/upward-spec":
+"@magento/upward-spec@~5.2.1", "@magento/upward-spec@file:/Users/mac/Documents/Magento/ReactPWA/packages/upward-spec":
   "resolved" "file:packages/upward-spec"
   "version" "5.2.1"
   dependencies:
@@ -2725,7 +2725,7 @@
     "tap-xunit" "~2.3.0"
     "tape" "~4.10.1"
 
-"@magento/venia-concept@~12.6.0", "@magento/venia-concept@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/venia-concept":
+"@magento/venia-concept@~12.6.0", "@magento/venia-concept@file:/Users/mac/Documents/Magento/ReactPWA/packages/venia-concept":
   "resolved" "file:packages/venia-concept"
   "version" "12.6.0"
   dependencies:
@@ -2733,23 +2733,23 @@
   optionalDependencies:
     "sharp" "~0.29.3"
 
-"@magento/venia-sample-backends@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/extensions/venia-sample-backends":
+"@magento/venia-sample-backends@file:/Users/mac/Documents/Magento/ReactPWA/packages/extensions/venia-sample-backends":
   "resolved" "file:packages/extensions/venia-sample-backends"
   "version" "0.0.8"
 
-"@magento/venia-sample-eventing@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/extensions/venia-sample-eventing":
+"@magento/venia-sample-eventing@file:/Users/mac/Documents/Magento/ReactPWA/packages/extensions/venia-sample-eventing":
   "resolved" "file:packages/extensions/venia-sample-eventing"
   "version" "0.0.2"
 
-"@magento/venia-sample-language-packs@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/extensions/venia-sample-language-packs":
+"@magento/venia-sample-language-packs@file:/Users/mac/Documents/Magento/ReactPWA/packages/extensions/venia-sample-language-packs":
   "resolved" "file:packages/extensions/venia-sample-language-packs"
   "version" "0.0.10"
 
-"@magento/venia-sample-payments-checkmo@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/extensions/venia-sample-payments-checkmo":
+"@magento/venia-sample-payments-checkmo@file:/Users/mac/Documents/Magento/ReactPWA/packages/extensions/venia-sample-payments-checkmo":
   "resolved" "file:packages/extensions/venia-sample-payments-checkmo"
   "version" "0.0.8"
 
-"@magento/venia-ui@~9.6.0", "@magento/venia-ui@file:/Users/mac/Desktop/Documents/React/pwa-studio/packages/venia-ui":
+"@magento/venia-ui@~9.6.0", "@magento/venia-ui@file:/Users/mac/Documents/Magento/ReactPWA/packages/venia-ui":
   "resolved" "file:packages/venia-ui"
   "version" "9.6.0"
   dependencies:
